@@ -1,0 +1,503 @@
+"Gender";"Age";"Academic Pressure";"Study Satisfaction";"Sleep Duration";"Dietary Habits";"Have you ever had suicidal thoughts ?";"Study Hours";"Financial Stress";"Family History of Mental Illness";"Depression";"Age_group";"Index_column"
+"F";22;3.0;3.0;"7-8 hours";"Moderate";"Yes";7;4;"No";"Yes";"A1";1
+"M";28;2.0;4.0;"7-8 hours";"Moderate";"Yes";9;2;"Yes";"No";"A2";2
+"M";23;4.0;5.0;"5-6 hours";"Moderate";"No";4;1;"No";"No";"A1";3
+"M";28;4.0;5.0;"5-6 hours";"Healthy";"Yes";7;1;"Yes";"No";"A2";4
+"M";25;1.0;3.0;"5-6 hours";"Unhealthy";"Yes";10;4;"No";"Yes";"A2";5
+"M";23;1.0;4.0;"More than 8 hours";"Unhealthy";"Yes";7;2;"Yes";"No";"A1";6
+"F";31;1.0;5.0;"More than 8 hours";"Healthy";"Yes";4;2;"Yes";"No";"A3";7
+"M";19;4.0;4.0;"5-6 hours";"Unhealthy";"Yes";1;4;"Yes";"Yes";"A1";8
+"F";34;4.0;2.0;"More than 8 hours";"Moderate";"Yes";6;2;"No";"Yes";"A3";9
+"F";24;5.0;2.0;"5-6 hours";"Healthy";"No";3;5;"No";"Yes";"A1";10
+"F";21;1.0;1.0;"7-8 hours";"Moderate";"No";11;3;"No";"No";"A1";11
+"F";20;4.0;1.0;"More than 8 hours";"Healthy";"Yes";3;4;"Yes";"Yes";"A1";12
+"F";33;2.0;4.0;"Less than 5 hours";"Moderate";"Yes";10;3;"Yes";"Yes";"A3";13
+"M";23;3.0;3.0;"7-8 hours";"Unhealthy";"Yes";11;1;"Yes";"Yes";"A1";14
+"F";33;1.0;4.0;"More than 8 hours";"Moderate";"No";10;3;"No";"No";"A3";15
+"F";34;3.0;2.0;"7-8 hours";"Unhealthy";"Yes";0;4;"Yes";"Yes";"A3";16
+"M";28;4.0;3.0;"Less than 5 hours";"Healthy";"Yes";7;5;"No";"Yes";"A2";17
+"M";33;4.0;3.0;"Less than 5 hours";"Unhealthy";"Yes";10;1;"No";"Yes";"A3";18
+"M";18;3.0;4.0;"7-8 hours";"Unhealthy";"Yes";9;3;"Yes";"Yes";"A1";19
+"F";28;3.0;5.0;"7-8 hours";"Unhealthy";"Yes";5;1;"Yes";"No";"A2";20
+"F";31;5.0;4.0;"5-6 hours";"Healthy";"Yes";6;4;"No";"Yes";"A3";21
+"F";32;5.0;3.0;"7-8 hours";"Healthy";"Yes";3;3;"No";"Yes";"A3";22
+"M";24;2.0;1.0;"7-8 hours";"Unhealthy";"Yes";11;5;"No";"Yes";"A1";23
+"F";33;1.0;4.0;"More than 8 hours";"Unhealthy";"No";12;5;"No";"No";"A3";24
+"F";18;2.0;4.0;"7-8 hours";"Healthy";"No";9;2;"No";"No";"A1";25
+"F";23;5.0;5.0;"Less than 5 hours";"Unhealthy";"Yes";2;1;"Yes";"Yes";"A1";26
+"F";29;4.0;3.0;"7-8 hours";"Unhealthy";"Yes";4;2;"Yes";"Yes";"A2";27
+"M";23;1.0;1.0;"5-6 hours";"Unhealthy";"Yes";1;4;"No";"Yes";"A1";28
+"M";25;1.0;1.0;"5-6 hours";"Moderate";"Yes";12;3;"Yes";"Yes";"A2";29
+"F";33;1.0;1.0;"Less than 5 hours";"Moderate";"No";10;4;"Yes";"No";"A3";30
+"M";21;5.0;1.0;"More than 8 hours";"Unhealthy";"Yes";3;5;"Yes";"Yes";"A1";31
+"F";28;3.0;3.0;"Less than 5 hours";"Healthy";"No";3;1;"No";"No";"A2";32
+"M";28;5.0;3.0;"5-6 hours";"Healthy";"Yes";8;3;"Yes";"Yes";"A2";33
+"F";19;1.0;5.0;"More than 8 hours";"Moderate";"No";2;1;"Yes";"No";"A1";34
+"M";24;4.0;5.0;"7-8 hours";"Moderate";"No";4;1;"No";"No";"A1";35
+"M";23;5.0;2.0;"More than 8 hours";"Moderate";"No";10;4;"No";"Yes";"A1";36
+"F";28;1.0;1.0;"7-8 hours";"Healthy";"No";2;3;"Yes";"No";"A2";37
+"F";23;1.0;3.0;"Less than 5 hours";"Healthy";"Yes";0;3;"No";"No";"A1";38
+"F";20;5.0;5.0;"More than 8 hours";"Unhealthy";"Yes";2;5;"No";"Yes";"A1";39
+"M";29;4.0;3.0;"More than 8 hours";"Unhealthy";"Yes";1;3;"No";"Yes";"A2";40
+"M";31;2.0;3.0;"More than 8 hours";"Unhealthy";"No";3;3;"Yes";"No";"A3";41
+"M";24;3.0;4.0;"More than 8 hours";"Healthy";"Yes";1;3;"No";"No";"A1";42
+"M";31;2.0;4.0;"More than 8 hours";"Unhealthy";"No";10;1;"No";"No";"A3";43
+"M";34;3.0;4.0;"5-6 hours";"Healthy";"No";4;2;"Yes";"No";"A3";44
+"F";33;3.0;2.0;"7-8 hours";"Moderate";"No";11;5;"Yes";"No";"A3";45
+"M";29;1.0;3.0;"5-6 hours";"Unhealthy";"Yes";2;5;"Yes";"Yes";"A2";46
+"F";33;2.0;3.0;"7-8 hours";"Moderate";"Yes";12;5;"Yes";"Yes";"A3";47
+"F";24;4.0;5.0;"7-8 hours";"Unhealthy";"Yes";4;5;"Yes";"Yes";"A1";48
+"F";29;5.0;3.0;"7-8 hours";"Moderate";"No";12;5;"No";"Yes";"A2";49
+"F";18;2.0;5.0;"7-8 hours";"Moderate";"No";8;2;"No";"No";"A1";50
+"F";21;3.0;2.0;"7-8 hours";"Unhealthy";"Yes";6;1;"Yes";"Yes";"A1";51
+"F";28;4.0;2.0;"More than 8 hours";"Moderate";"No";0;3;"No";"No";"A2";52
+"M";19;4.0;2.0;"5-6 hours";"Moderate";"No";11;1;"Yes";"Yes";"A1";53
+"M";31;2.0;2.0;"7-8 hours";"Healthy";"No";2;4;"Yes";"No";"A3";54
+"M";26;5.0;4.0;"Less than 5 hours";"Unhealthy";"Yes";11;1;"Yes";"Yes";"A2";55
+"F";27;4.0;2.0;"5-6 hours";"Unhealthy";"No";2;4;"Yes";"Yes";"A2";56
+"F";22;5.0;2.0;"7-8 hours";"Moderate";"Yes";5;1;"Yes";"Yes";"A1";57
+"M";30;3.0;4.0;"7-8 hours";"Moderate";"Yes";0;2;"Yes";"No";"A2";58
+"F";27;3.0;4.0;"5-6 hours";"Healthy";"No";0;2;"No";"No";"A2";59
+"M";21;5.0;3.0;"7-8 hours";"Unhealthy";"No";6;4;"Yes";"Yes";"A1";60
+"F";31;5.0;4.0;"More than 8 hours";"Healthy";"No";6;2;"No";"No";"A3";61
+"F";29;3.0;5.0;"Less than 5 hours";"Moderate";"Yes";4;3;"Yes";"Yes";"A2";62
+"F";34;3.0;4.0;"Less than 5 hours";"Unhealthy";"Yes";12;1;"Yes";"Yes";"A3";63
+"F";20;3.0;2.0;"More than 8 hours";"Healthy";"No";2;2;"No";"No";"A1";64
+"F";33;2.0;5.0;"Less than 5 hours";"Moderate";"Yes";3;3;"Yes";"No";"A3";65
+"M";28;3.0;2.0;"More than 8 hours";"Healthy";"No";3;1;"Yes";"No";"A2";66
+"M";29;3.0;3.0;"7-8 hours";"Moderate";"No";6;1;"Yes";"No";"A2";67
+"F";27;5.0;2.0;"5-6 hours";"Unhealthy";"Yes";7;2;"No";"Yes";"A2";68
+"F";24;1.0;2.0;"5-6 hours";"Moderate";"Yes";9;5;"No";"Yes";"A1";69
+"M";31;1.0;4.0;"More than 8 hours";"Healthy";"No";4;4;"Yes";"No";"A3";70
+"F";32;3.0;1.0;"7-8 hours";"Moderate";"Yes";7;3;"Yes";"Yes";"A3";71
+"F";24;1.0;5.0;"7-8 hours";"Unhealthy";"Yes";10;5;"Yes";"Yes";"A1";72
+"F";25;5.0;5.0;"7-8 hours";"Unhealthy";"No";9;4;"No";"Yes";"A2";73
+"F";31;4.0;5.0;"7-8 hours";"Moderate";"Yes";10;4;"Yes";"Yes";"A3";74
+"F";34;2.0;4.0;"7-8 hours";"Moderate";"No";10;1;"No";"No";"A3";75
+"F";32;3.0;4.0;"5-6 hours";"Moderate";"Yes";12;1;"No";"No";"A3";76
+"F";22;1.0;2.0;"More than 8 hours";"Healthy";"Yes";3;4;"No";"No";"A1";77
+"F";29;3.0;3.0;"5-6 hours";"Healthy";"Yes";10;1;"Yes";"Yes";"A2";78
+"F";25;3.0;1.0;"7-8 hours";"Healthy";"No";9;3;"No";"No";"A2";79
+"M";27;5.0;5.0;"Less than 5 hours";"Healthy";"Yes";6;3;"Yes";"Yes";"A2";80
+"F";18;4.0;4.0;"5-6 hours";"Unhealthy";"No";10;2;"No";"Yes";"A1";81
+"F";30;2.0;3.0;"Less than 5 hours";"Unhealthy";"No";2;1;"No";"No";"A2";82
+"M";21;2.0;4.0;"More than 8 hours";"Unhealthy";"Yes";3;3;"Yes";"Yes";"A1";83
+"M";20;3.0;1.0;"7-8 hours";"Moderate";"Yes";4;4;"Yes";"Yes";"A1";84
+"M";28;3.0;5.0;"5-6 hours";"Moderate";"Yes";10;4;"Yes";"Yes";"A2";85
+"F";20;3.0;2.0;"7-8 hours";"Moderate";"Yes";5;4;"Yes";"Yes";"A1";86
+"M";30;3.0;2.0;"7-8 hours";"Unhealthy";"Yes";2;4;"Yes";"Yes";"A2";87
+"F";21;3.0;1.0;"Less than 5 hours";"Healthy";"Yes";9;3;"Yes";"Yes";"A1";88
+"M";18;5.0;2.0;"Less than 5 hours";"Moderate";"Yes";12;1;"Yes";"Yes";"A1";89
+"F";29;2.0;4.0;"7-8 hours";"Healthy";"Yes";0;1;"No";"No";"A2";90
+"F";29;3.0;5.0;"5-6 hours";"Healthy";"No";10;1;"Yes";"No";"A2";91
+"M";32;5.0;1.0;"5-6 hours";"Moderate";"Yes";12;5;"No";"Yes";"A3";92
+"F";29;2.0;4.0;"Less than 5 hours";"Unhealthy";"No";11;2;"Yes";"No";"A2";93
+"M";25;5.0;3.0;"More than 8 hours";"Unhealthy";"Yes";6;4;"No";"Yes";"A2";94
+"F";32;1.0;1.0;"More than 8 hours";"Moderate";"Yes";6;2;"No";"No";"A3";95
+"F";28;3.0;1.0;"More than 8 hours";"Healthy";"Yes";5;3;"Yes";"Yes";"A2";96
+"M";24;3.0;2.0;"Less than 5 hours";"Unhealthy";"Yes";5;1;"Yes";"Yes";"A1";97
+"F";19;1.0;2.0;"More than 8 hours";"Healthy";"No";7;5;"No";"No";"A1";98
+"M";30;3.0;2.0;"Less than 5 hours";"Healthy";"Yes";1;1;"No";"No";"A2";99
+"M";32;3.0;1.0;"7-8 hours";"Unhealthy";"Yes";1;4;"No";"Yes";"A3";100
+"M";21;1.0;5.0;"5-6 hours";"Healthy";"Yes";10;2;"Yes";"No";"A1";101
+"F";20;3.0;4.0;"More than 8 hours";"Unhealthy";"Yes";3;4;"Yes";"Yes";"A1";102
+"M";26;1.0;4.0;"5-6 hours";"Unhealthy";"Yes";10;4;"Yes";"Yes";"A2";103
+"M";20;2.0;4.0;"Less than 5 hours";"Healthy";"No";12;5;"Yes";"Yes";"A1";104
+"M";32;3.0;4.0;"5-6 hours";"Moderate";"Yes";12;3;"Yes";"Yes";"A3";105
+"M";24;4.0;1.0;"7-8 hours";"Moderate";"No";5;3;"Yes";"Yes";"A1";106
+"M";21;1.0;4.0;"Less than 5 hours";"Moderate";"Yes";5;5;"Yes";"Yes";"A1";107
+"M";28;4.0;2.0;"7-8 hours";"Unhealthy";"Yes";11;3;"No";"Yes";"A2";108
+"F";34;1.0;4.0;"7-8 hours";"Moderate";"No";5;1;"Yes";"No";"A3";109
+"M";23;1.0;1.0;"7-8 hours";"Healthy";"No";2;5;"Yes";"No";"A1";110
+"F";32;5.0;1.0;"5-6 hours";"Healthy";"Yes";7;1;"Yes";"Yes";"A3";111
+"F";28;4.0;2.0;"Less than 5 hours";"Moderate";"Yes";11;5;"Yes";"Yes";"A2";112
+"M";22;2.0;4.0;"7-8 hours";"Moderate";"Yes";0;2;"No";"No";"A1";113
+"M";22;2.0;5.0;"Less than 5 hours";"Moderate";"No";10;5;"No";"No";"A1";114
+"F";20;3.0;4.0;"7-8 hours";"Healthy";"Yes";11;4;"No";"Yes";"A1";115
+"F";24;5.0;4.0;"7-8 hours";"Moderate";"Yes";2;4;"No";"Yes";"A1";116
+"F";20;5.0;4.0;"More than 8 hours";"Unhealthy";"No";8;3;"Yes";"Yes";"A1";117
+"M";29;1.0;3.0;"Less than 5 hours";"Unhealthy";"Yes";2;3;"No";"No";"A2";118
+"F";19;1.0;5.0;"Less than 5 hours";"Moderate";"No";3;3;"Yes";"No";"A1";119
+"F";22;2.0;2.0;"Less than 5 hours";"Healthy";"Yes";0;1;"Yes";"No";"A1";120
+"M";31;1.0;3.0;"Less than 5 hours";"Healthy";"Yes";4;3;"No";"No";"A3";121
+"M";30;2.0;3.0;"Less than 5 hours";"Healthy";"Yes";6;3;"No";"No";"A2";122
+"F";31;3.0;4.0;"7-8 hours";"Moderate";"No";3;2;"No";"No";"A3";123
+"F";21;1.0;1.0;"Less than 5 hours";"Moderate";"No";12;1;"No";"No";"A1";124
+"F";23;1.0;4.0;"More than 8 hours";"Moderate";"Yes";4;1;"No";"No";"A1";125
+"F";19;3.0;5.0;"5-6 hours";"Healthy";"No";3;3;"No";"No";"A1";126
+"F";22;1.0;2.0;"7-8 hours";"Unhealthy";"No";1;2;"No";"No";"A1";127
+"M";25;3.0;2.0;"More than 8 hours";"Unhealthy";"Yes";8;1;"No";"Yes";"A2";128
+"M";21;2.0;3.0;"5-6 hours";"Unhealthy";"Yes";6;5;"Yes";"Yes";"A1";129
+"M";25;1.0;1.0;"More than 8 hours";"Healthy";"No";9;2;"No";"No";"A2";130
+"M";28;5.0;1.0;"Less than 5 hours";"Unhealthy";"No";12;3;"No";"Yes";"A2";131
+"M";20;3.0;4.0;"Less than 5 hours";"Moderate";"No";9;5;"Yes";"Yes";"A1";132
+"F";27;2.0;3.0;"5-6 hours";"Unhealthy";"No";11;2;"Yes";"No";"A2";133
+"F";21;5.0;1.0;"5-6 hours";"Moderate";"No";12;3;"No";"Yes";"A1";134
+"M";34;4.0;1.0;"7-8 hours";"Unhealthy";"Yes";11;5;"No";"Yes";"A3";135
+"F";28;3.0;4.0;"7-8 hours";"Moderate";"No";3;1;"No";"No";"A2";136
+"M";29;3.0;1.0;"7-8 hours";"Unhealthy";"Yes";9;3;"Yes";"Yes";"A2";137
+"M";26;5.0;2.0;"More than 8 hours";"Unhealthy";"No";8;3;"No";"Yes";"A2";138
+"M";24;2.0;1.0;"Less than 5 hours";"Unhealthy";"Yes";8;5;"No";"Yes";"A1";139
+"M";23;3.0;5.0;"5-6 hours";"Healthy";"Yes";10;5;"Yes";"Yes";"A1";140
+"F";23;3.0;5.0;"5-6 hours";"Healthy";"No";1;5;"Yes";"No";"A1";141
+"F";24;1.0;1.0;"Less than 5 hours";"Moderate";"No";0;3;"Yes";"No";"A1";142
+"M";33;4.0;4.0;"More than 8 hours";"Healthy";"No";8;1;"Yes";"No";"A3";143
+"M";18;5.0;3.0;"More than 8 hours";"Unhealthy";"No";6;2;"Yes";"Yes";"A1";144
+"F";34;3.0;3.0;"More than 8 hours";"Moderate";"No";12;5;"No";"No";"A3";145
+"M";20;3.0;3.0;"More than 8 hours";"Healthy";"Yes";6;5;"Yes";"Yes";"A1";146
+"M";23;1.0;1.0;"7-8 hours";"Unhealthy";"Yes";7;2;"No";"Yes";"A1";147
+"F";34;1.0;4.0;"More than 8 hours";"Moderate";"No";11;3;"No";"No";"A3";148
+"M";33;4.0;5.0;"More than 8 hours";"Moderate";"Yes";8;1;"No";"No";"A3";149
+"M";18;5.0;5.0;"More than 8 hours";"Healthy";"No";7;1;"Yes";"No";"A1";150
+"M";18;5.0;5.0;"7-8 hours";"Healthy";"Yes";6;2;"No";"Yes";"A1";151
+"M";34;3.0;1.0;"7-8 hours";"Moderate";"No";7;3;"No";"No";"A3";152
+"M";34;1.0;1.0;"5-6 hours";"Healthy";"No";7;1;"No";"No";"A3";153
+"F";20;4.0;3.0;"7-8 hours";"Healthy";"Yes";12;3;"Yes";"Yes";"A1";154
+"M";34;3.0;2.0;"5-6 hours";"Moderate";"No";4;3;"Yes";"No";"A3";155
+"M";29;1.0;3.0;"More than 8 hours";"Unhealthy";"No";1;2;"Yes";"No";"A2";156
+"F";19;4.0;5.0;"Less than 5 hours";"Moderate";"No";6;2;"Yes";"No";"A1";157
+"F";19;1.0;1.0;"More than 8 hours";"Unhealthy";"No";6;2;"Yes";"No";"A1";158
+"M";28;1.0;3.0;"7-8 hours";"Moderate";"Yes";10;5;"No";"Yes";"A2";159
+"M";34;4.0;3.0;"More than 8 hours";"Unhealthy";"No";7;1;"No";"No";"A3";160
+"F";32;5.0;4.0;"Less than 5 hours";"Unhealthy";"Yes";0;3;"Yes";"Yes";"A3";161
+"F";25;2.0;5.0;"5-6 hours";"Moderate";"No";3;5;"No";"No";"A2";162
+"M";30;3.0;1.0;"7-8 hours";"Moderate";"No";10;1;"No";"No";"A2";163
+"F";33;4.0;3.0;"7-8 hours";"Healthy";"No";2;2;"No";"No";"A3";164
+"F";23;1.0;1.0;"5-6 hours";"Healthy";"No";8;4;"Yes";"No";"A1";165
+"M";28;5.0;4.0;"More than 8 hours";"Moderate";"Yes";6;4;"No";"Yes";"A2";166
+"M";33;5.0;5.0;"More than 8 hours";"Moderate";"Yes";11;1;"Yes";"Yes";"A3";167
+"F";31;3.0;4.0;"7-8 hours";"Moderate";"No";0;2;"Yes";"No";"A3";168
+"M";32;3.0;2.0;"7-8 hours";"Moderate";"Yes";8;2;"Yes";"Yes";"A3";169
+"M";30;1.0;4.0;"Less than 5 hours";"Healthy";"No";10;1;"Yes";"No";"A2";170
+"M";25;3.0;2.0;"More than 8 hours";"Unhealthy";"Yes";4;4;"No";"Yes";"A2";171
+"M";33;4.0;4.0;"5-6 hours";"Moderate";"Yes";7;5;"Yes";"Yes";"A3";172
+"F";22;1.0;4.0;"Less than 5 hours";"Unhealthy";"No";7;5;"Yes";"No";"A1";173
+"F";23;4.0;1.0;"More than 8 hours";"Healthy";"No";8;4;"No";"Yes";"A1";174
+"F";26;3.0;3.0;"More than 8 hours";"Moderate";"No";10;3;"No";"No";"A2";175
+"F";27;5.0;2.0;"Less than 5 hours";"Unhealthy";"No";5;5;"No";"Yes";"A2";176
+"F";32;1.0;4.0;"More than 8 hours";"Unhealthy";"Yes";0;2;"No";"No";"A3";177
+"M";26;1.0;2.0;"Less than 5 hours";"Moderate";"No";7;5;"Yes";"No";"A2";178
+"M";33;4.0;4.0;"7-8 hours";"Healthy";"Yes";11;1;"Yes";"No";"A3";179
+"M";21;3.0;5.0;"5-6 hours";"Healthy";"No";5;2;"No";"No";"A1";180
+"M";30;5.0;2.0;"5-6 hours";"Unhealthy";"Yes";0;2;"No";"Yes";"A2";181
+"F";24;5.0;1.0;"7-8 hours";"Healthy";"No";8;5;"No";"Yes";"A1";182
+"F";26;4.0;5.0;"More than 8 hours";"Healthy";"No";7;4;"Yes";"No";"A2";183
+"F";20;2.0;5.0;"More than 8 hours";"Unhealthy";"Yes";4;2;"No";"No";"A1";184
+"F";29;3.0;3.0;"7-8 hours";"Healthy";"Yes";5;5;"Yes";"Yes";"A2";185
+"M";19;2.0;5.0;"5-6 hours";"Healthy";"No";9;1;"Yes";"No";"A1";186
+"F";19;1.0;1.0;"5-6 hours";"Healthy";"Yes";10;3;"No";"Yes";"A1";187
+"F";25;2.0;2.0;"More than 8 hours";"Moderate";"No";11;2;"Yes";"No";"A2";188
+"M";18;5.0;5.0;"5-6 hours";"Moderate";"No";3;4;"No";"Yes";"A1";189
+"F";22;2.0;5.0;"More than 8 hours";"Unhealthy";"Yes";7;5;"No";"Yes";"A1";190
+"M";18;3.0;4.0;"Less than 5 hours";"Moderate";"Yes";9;1;"No";"Yes";"A1";191
+"F";20;1.0;3.0;"7-8 hours";"Healthy";"Yes";0;5;"No";"No";"A1";192
+"M";28;2.0;5.0;"5-6 hours";"Healthy";"No";4;1;"Yes";"No";"A2";193
+"F";21;1.0;4.0;"7-8 hours";"Healthy";"No";8;5;"Yes";"No";"A1";194
+"F";20;1.0;3.0;"7-8 hours";"Unhealthy";"No";2;2;"Yes";"No";"A1";195
+"F";30;4.0;3.0;"More than 8 hours";"Unhealthy";"No";8;2;"Yes";"No";"A2";196
+"M";31;3.0;5.0;"Less than 5 hours";"Moderate";"Yes";10;4;"No";"Yes";"A3";197
+"M";22;4.0;2.0;"More than 8 hours";"Unhealthy";"No";10;1;"Yes";"Yes";"A1";198
+"M";25;3.0;5.0;"7-8 hours";"Unhealthy";"Yes";2;1;"No";"No";"A2";199
+"M";30;5.0;1.0;"Less than 5 hours";"Unhealthy";"No";2;5;"Yes";"Yes";"A2";200
+"M";30;1.0;5.0;"Less than 5 hours";"Moderate";"Yes";0;1;"No";"No";"A2";201
+"F";26;4.0;1.0;"5-6 hours";"Unhealthy";"Yes";0;1;"No";"Yes";"A2";202
+"M";28;3.0;3.0;"More than 8 hours";"Unhealthy";"Yes";6;3;"Yes";"Yes";"A2";203
+"F";30;3.0;5.0;"5-6 hours";"Healthy";"Yes";10;3;"No";"No";"A2";204
+"F";26;2.0;5.0;"More than 8 hours";"Moderate";"Yes";10;4;"Yes";"Yes";"A2";205
+"F";29;5.0;5.0;"7-8 hours";"Moderate";"Yes";6;2;"Yes";"Yes";"A2";206
+"F";28;1.0;2.0;"5-6 hours";"Healthy";"Yes";3;4;"Yes";"No";"A2";207
+"M";20;4.0;1.0;"Less than 5 hours";"Unhealthy";"No";4;4;"Yes";"Yes";"A1";208
+"M";34;5.0;3.0;"Less than 5 hours";"Moderate";"Yes";11;5;"No";"Yes";"A3";209
+"F";33;4.0;1.0;"5-6 hours";"Healthy";"Yes";12;1;"No";"Yes";"A3";210
+"F";19;4.0;3.0;"5-6 hours";"Healthy";"No";5;2;"Yes";"Yes";"A1";211
+"M";27;4.0;2.0;"More than 8 hours";"Moderate";"Yes";4;3;"No";"Yes";"A2";212
+"F";22;3.0;5.0;"Less than 5 hours";"Healthy";"Yes";7;5;"No";"Yes";"A1";213
+"M";25;5.0;2.0;"Less than 5 hours";"Healthy";"No";9;1;"Yes";"Yes";"A2";214
+"F";20;2.0;3.0;"7-8 hours";"Unhealthy";"Yes";0;3;"Yes";"Yes";"A1";215
+"F";29;2.0;2.0;"Less than 5 hours";"Moderate";"Yes";12;1;"No";"Yes";"A2";216
+"F";34;3.0;4.0;"More than 8 hours";"Healthy";"Yes";6;3;"No";"No";"A3";217
+"M";27;5.0;2.0;"5-6 hours";"Unhealthy";"Yes";12;3;"Yes";"Yes";"A2";218
+"F";26;3.0;2.0;"Less than 5 hours";"Unhealthy";"No";6;5;"Yes";"Yes";"A2";219
+"M";34;1.0;4.0;"7-8 hours";"Healthy";"Yes";12;3;"No";"No";"A3";220
+"F";24;2.0;2.0;"5-6 hours";"Moderate";"Yes";5;3;"No";"Yes";"A1";221
+"M";18;3.0;4.0;"5-6 hours";"Healthy";"Yes";9;1;"No";"Yes";"A1";222
+"F";28;2.0;4.0;"7-8 hours";"Healthy";"Yes";2;4;"Yes";"No";"A2";223
+"M";18;5.0;2.0;"7-8 hours";"Unhealthy";"Yes";8;2;"Yes";"Yes";"A1";224
+"M";19;5.0;1.0;"More than 8 hours";"Moderate";"No";2;3;"No";"Yes";"A1";225
+"M";33;1.0;2.0;"Less than 5 hours";"Healthy";"No";1;3;"No";"No";"A3";226
+"M";20;4.0;4.0;"5-6 hours";"Unhealthy";"Yes";11;2;"Yes";"Yes";"A1";227
+"M";29;5.0;3.0;"5-6 hours";"Healthy";"No";11;2;"Yes";"Yes";"A2";228
+"F";33;5.0;4.0;"7-8 hours";"Moderate";"Yes";12;3;"No";"Yes";"A3";229
+"M";34;1.0;3.0;"More than 8 hours";"Moderate";"Yes";8;1;"No";"No";"A3";230
+"F";24;2.0;3.0;"More than 8 hours";"Healthy";"Yes";0;5;"Yes";"Yes";"A1";231
+"F";24;4.0;2.0;"Less than 5 hours";"Unhealthy";"No";8;5;"Yes";"Yes";"A1";232
+"F";25;3.0;2.0;"More than 8 hours";"Moderate";"No";0;4;"Yes";"No";"A2";233
+"F";28;4.0;5.0;"5-6 hours";"Unhealthy";"No";3;4;"No";"No";"A2";234
+"M";30;1.0;5.0;"5-6 hours";"Moderate";"Yes";10;3;"No";"No";"A2";235
+"F";28;4.0;3.0;"More than 8 hours";"Healthy";"Yes";12;5;"Yes";"Yes";"A2";236
+"F";29;3.0;2.0;"Less than 5 hours";"Moderate";"No";5;2;"Yes";"No";"A2";237
+"F";34;2.0;5.0;"7-8 hours";"Healthy";"Yes";8;3;"Yes";"No";"A3";238
+"F";32;2.0;3.0;"7-8 hours";"Moderate";"No";6;1;"No";"No";"A3";239
+"M";24;5.0;2.0;"7-8 hours";"Unhealthy";"No";4;5;"No";"Yes";"A1";240
+"M";29;5.0;5.0;"More than 8 hours";"Moderate";"Yes";4;1;"Yes";"No";"A2";241
+"F";26;2.0;3.0;"5-6 hours";"Healthy";"No";12;5;"No";"No";"A2";242
+"M";29;4.0;5.0;"More than 8 hours";"Moderate";"No";6;2;"No";"No";"A2";243
+"F";25;4.0;4.0;"Less than 5 hours";"Moderate";"No";1;1;"No";"No";"A2";244
+"F";28;5.0;2.0;"5-6 hours";"Healthy";"Yes";3;5;"No";"Yes";"A2";245
+"F";19;2.0;5.0;"More than 8 hours";"Moderate";"No";1;3;"Yes";"No";"A1";246
+"M";24;2.0;5.0;"7-8 hours";"Unhealthy";"Yes";5;4;"No";"Yes";"A1";247
+"F";20;3.0;2.0;"5-6 hours";"Unhealthy";"Yes";10;5;"No";"Yes";"A1";248
+"M";33;2.0;5.0;"Less than 5 hours";"Moderate";"Yes";0;1;"Yes";"No";"A3";249
+"M";27;3.0;1.0;"5-6 hours";"Moderate";"Yes";9;5;"Yes";"Yes";"A2";250
+"M";24;4.0;2.0;"5-6 hours";"Unhealthy";"No";12;2;"No";"Yes";"A1";251
+"M";32;3.0;4.0;"Less than 5 hours";"Healthy";"Yes";7;1;"No";"No";"A3";252
+"M";33;2.0;4.0;"Less than 5 hours";"Unhealthy";"Yes";12;4;"Yes";"Yes";"A3";253
+"M";27;1.0;2.0;"7-8 hours";"Unhealthy";"Yes";12;1;"No";"No";"A2";254
+"M";25;5.0;2.0;"More than 8 hours";"Moderate";"No";4;5;"No";"Yes";"A2";255
+"M";21;1.0;5.0;"More than 8 hours";"Unhealthy";"No";2;2;"Yes";"No";"A1";256
+"M";20;2.0;3.0;"More than 8 hours";"Unhealthy";"No";3;1;"No";"No";"A1";257
+"M";33;3.0;4.0;"More than 8 hours";"Moderate";"No";7;3;"No";"No";"A3";258
+"M";27;2.0;5.0;"Less than 5 hours";"Moderate";"No";2;5;"Yes";"No";"A2";259
+"F";31;1.0;2.0;"7-8 hours";"Moderate";"Yes";9;4;"No";"No";"A3";260
+"M";26;2.0;1.0;"5-6 hours";"Moderate";"No";8;3;"Yes";"No";"A2";261
+"F";33;5.0;4.0;"Less than 5 hours";"Moderate";"No";6;3;"Yes";"No";"A3";262
+"F";18;5.0;2.0;"Less than 5 hours";"Moderate";"No";2;3;"Yes";"Yes";"A1";263
+"M";22;5.0;2.0;"7-8 hours";"Unhealthy";"Yes";12;4;"No";"Yes";"A1";264
+"F";19;3.0;4.0;"7-8 hours";"Healthy";"Yes";10;2;"No";"Yes";"A1";265
+"M";22;2.0;4.0;"Less than 5 hours";"Healthy";"No";3;3;"No";"No";"A1";266
+"M";34;4.0;5.0;"Less than 5 hours";"Moderate";"Yes";3;2;"Yes";"No";"A3";267
+"M";33;5.0;4.0;"5-6 hours";"Moderate";"Yes";0;5;"No";"Yes";"A3";268
+"M";20;2.0;3.0;"More than 8 hours";"Unhealthy";"No";0;3;"Yes";"No";"A1";269
+"M";22;3.0;4.0;"5-6 hours";"Healthy";"Yes";11;2;"Yes";"Yes";"A1";270
+"F";29;5.0;2.0;"5-6 hours";"Moderate";"Yes";8;4;"No";"Yes";"A2";271
+"F";27;2.0;2.0;"Less than 5 hours";"Healthy";"No";3;4;"No";"No";"A2";272
+"F";28;4.0;4.0;"Less than 5 hours";"Moderate";"No";2;1;"No";"No";"A2";273
+"F";30;2.0;2.0;"Less than 5 hours";"Healthy";"No";10;4;"No";"No";"A2";274
+"M";34;2.0;3.0;"5-6 hours";"Moderate";"No";12;2;"No";"No";"A3";275
+"F";18;4.0;1.0;"More than 8 hours";"Healthy";"No";10;1;"Yes";"Yes";"A1";276
+"M";20;3.0;4.0;"Less than 5 hours";"Healthy";"No";3;3;"Yes";"No";"A1";277
+"M";19;5.0;1.0;"Less than 5 hours";"Healthy";"Yes";7;3;"No";"Yes";"A1";278
+"M";26;4.0;3.0;"7-8 hours";"Healthy";"No";5;4;"Yes";"No";"A2";279
+"F";25;3.0;5.0;"7-8 hours";"Unhealthy";"No";9;5;"No";"No";"A2";280
+"M";32;5.0;1.0;"More than 8 hours";"Healthy";"No";2;3;"Yes";"No";"A3";281
+"M";19;4.0;1.0;"More than 8 hours";"Moderate";"Yes";2;2;"No";"Yes";"A1";282
+"M";27;2.0;4.0;"More than 8 hours";"Unhealthy";"No";3;3;"No";"No";"A2";283
+"F";24;5.0;1.0;"More than 8 hours";"Moderate";"Yes";6;5;"No";"Yes";"A1";284
+"M";32;5.0;3.0;"More than 8 hours";"Healthy";"No";7;1;"No";"No";"A3";285
+"M";24;2.0;2.0;"5-6 hours";"Healthy";"No";9;2;"Yes";"No";"A1";286
+"F";34;3.0;1.0;"More than 8 hours";"Healthy";"Yes";5;4;"No";"Yes";"A3";287
+"F";29;3.0;4.0;"More than 8 hours";"Moderate";"Yes";6;5;"No";"Yes";"A2";288
+"F";19;4.0;5.0;"7-8 hours";"Moderate";"Yes";4;4;"Yes";"Yes";"A1";289
+"M";33;3.0;2.0;"More than 8 hours";"Moderate";"No";5;1;"No";"No";"A3";290
+"M";22;2.0;1.0;"Less than 5 hours";"Unhealthy";"Yes";12;2;"No";"Yes";"A1";291
+"M";24;1.0;2.0;"More than 8 hours";"Unhealthy";"Yes";0;2;"Yes";"No";"A1";292
+"M";29;3.0;3.0;"7-8 hours";"Unhealthy";"Yes";1;3;"Yes";"Yes";"A2";293
+"M";32;5.0;1.0;"Less than 5 hours";"Moderate";"Yes";3;1;"Yes";"Yes";"A3";294
+"F";25;3.0;4.0;"5-6 hours";"Healthy";"No";4;2;"No";"No";"A2";295
+"F";20;4.0;5.0;"More than 8 hours";"Healthy";"Yes";6;4;"Yes";"Yes";"A1";296
+"F";23;5.0;1.0;"5-6 hours";"Healthy";"No";12;3;"No";"Yes";"A1";297
+"M";27;1.0;5.0;"Less than 5 hours";"Healthy";"No";5;2;"Yes";"No";"A2";298
+"F";29;1.0;2.0;"Less than 5 hours";"Unhealthy";"Yes";4;5;"No";"Yes";"A2";299
+"F";20;4.0;1.0;"5-6 hours";"Unhealthy";"No";4;5;"No";"Yes";"A1";300
+"M";34;3.0;5.0;"7-8 hours";"Moderate";"Yes";4;5;"No";"No";"A3";301
+"M";32;3.0;3.0;"5-6 hours";"Healthy";"Yes";8;4;"Yes";"Yes";"A3";302
+"M";33;5.0;1.0;"Less than 5 hours";"Healthy";"No";10;2;"No";"Yes";"A3";303
+"F";28;5.0;2.0;"Less than 5 hours";"Unhealthy";"Yes";4;1;"No";"Yes";"A2";304
+"F";20;4.0;5.0;"5-6 hours";"Moderate";"Yes";11;4;"No";"Yes";"A1";305
+"F";29;3.0;5.0;"5-6 hours";"Healthy";"No";9;1;"No";"No";"A2";306
+"F";25;2.0;2.0;"More than 8 hours";"Unhealthy";"No";4;5;"No";"No";"A2";307
+"M";23;3.0;1.0;"Less than 5 hours";"Healthy";"No";8;2;"No";"No";"A1";308
+"F";28;4.0;2.0;"Less than 5 hours";"Healthy";"No";3;5;"No";"No";"A2";309
+"M";25;4.0;2.0;"Less than 5 hours";"Moderate";"No";1;3;"Yes";"Yes";"A2";310
+"M";26;2.0;1.0;"More than 8 hours";"Unhealthy";"Yes";3;3;"No";"Yes";"A2";311
+"M";33;4.0;3.0;"7-8 hours";"Unhealthy";"Yes";6;3;"No";"Yes";"A3";312
+"M";27;5.0;2.0;"7-8 hours";"Healthy";"Yes";8;1;"No";"Yes";"A2";313
+"M";23;3.0;2.0;"5-6 hours";"Moderate";"No";8;5;"No";"Yes";"A1";314
+"M";19;2.0;5.0;"Less than 5 hours";"Moderate";"No";1;4;"No";"No";"A1";315
+"F";25;4.0;4.0;"5-6 hours";"Healthy";"No";5;2;"No";"No";"A2";316
+"M";27;2.0;4.0;"Less than 5 hours";"Healthy";"Yes";5;4;"Yes";"Yes";"A2";317
+"F";18;1.0;5.0;"Less than 5 hours";"Unhealthy";"No";11;5;"Yes";"Yes";"A1";318
+"M";32;2.0;5.0;"Less than 5 hours";"Unhealthy";"Yes";9;5;"No";"Yes";"A3";319
+"M";28;2.0;5.0;"5-6 hours";"Moderate";"Yes";2;4;"No";"No";"A2";320
+"F";24;4.0;3.0;"Less than 5 hours";"Healthy";"Yes";3;5;"Yes";"Yes";"A1";321
+"M";28;5.0;5.0;"More than 8 hours";"Healthy";"Yes";10;2;"No";"Yes";"A2";322
+"F";28;5.0;1.0;"More than 8 hours";"Moderate";"No";8;3;"Yes";"Yes";"A2";323
+"M";32;5.0;2.0;"5-6 hours";"Moderate";"Yes";12;3;"No";"Yes";"A3";324
+"F";21;5.0;3.0;"7-8 hours";"Moderate";"No";9;2;"No";"Yes";"A1";325
+"M";26;5.0;1.0;"Less than 5 hours";"Unhealthy";"Yes";10;5;"No";"Yes";"A2";326
+"M";26;5.0;4.0;"7-8 hours";"Unhealthy";"No";3;2;"Yes";"No";"A2";327
+"F";22;1.0;1.0;"Less than 5 hours";"Healthy";"No";2;2;"No";"No";"A1";328
+"M";26;4.0;5.0;"Less than 5 hours";"Unhealthy";"No";4;1;"Yes";"No";"A2";329
+"M";25;1.0;3.0;"7-8 hours";"Unhealthy";"No";8;1;"Yes";"No";"A2";330
+"F";21;3.0;3.0;"7-8 hours";"Moderate";"Yes";8;5;"Yes";"Yes";"A1";331
+"M";29;1.0;1.0;"7-8 hours";"Healthy";"No";6;1;"Yes";"No";"A2";332
+"M";22;1.0;3.0;"7-8 hours";"Unhealthy";"No";6;4;"No";"No";"A1";333
+"M";21;3.0;2.0;"7-8 hours";"Unhealthy";"Yes";1;5;"No";"Yes";"A1";334
+"M";31;5.0;4.0;"5-6 hours";"Healthy";"No";12;3;"No";"No";"A3";335
+"F";24;1.0;3.0;"5-6 hours";"Moderate";"No";3;5;"No";"No";"A1";336
+"M";20;3.0;5.0;"More than 8 hours";"Unhealthy";"No";11;4;"No";"No";"A1";337
+"F";31;1.0;3.0;"7-8 hours";"Healthy";"No";12;3;"Yes";"No";"A3";338
+"M";21;1.0;5.0;"5-6 hours";"Unhealthy";"Yes";1;1;"No";"No";"A1";339
+"M";24;2.0;4.0;"5-6 hours";"Healthy";"No";12;4;"Yes";"No";"A1";340
+"M";34;3.0;4.0;"7-8 hours";"Healthy";"No";8;3;"No";"No";"A3";341
+"F";25;5.0;4.0;"Less than 5 hours";"Healthy";"No";7;1;"No";"No";"A2";342
+"M";27;2.0;5.0;"5-6 hours";"Healthy";"Yes";10;3;"No";"No";"A2";343
+"F";32;2.0;4.0;"5-6 hours";"Moderate";"No";10;1;"Yes";"No";"A3";344
+"M";30;5.0;1.0;"5-6 hours";"Moderate";"Yes";10;2;"Yes";"Yes";"A2";345
+"M";34;1.0;4.0;"7-8 hours";"Healthy";"No";4;3;"No";"No";"A3";346
+"M";21;1.0;4.0;"5-6 hours";"Unhealthy";"No";9;5;"No";"No";"A1";347
+"F";22;4.0;2.0;"5-6 hours";"Healthy";"Yes";8;2;"No";"Yes";"A1";348
+"M";33;4.0;3.0;"Less than 5 hours";"Unhealthy";"Yes";8;3;"Yes";"Yes";"A3";349
+"M";23;4.0;1.0;"5-6 hours";"Moderate";"No";8;2;"No";"Yes";"A1";350
+"F";18;4.0;4.0;"7-8 hours";"Unhealthy";"No";7;2;"No";"Yes";"A1";351
+"M";20;4.0;3.0;"5-6 hours";"Healthy";"No";9;5;"No";"Yes";"A1";352
+"M";26;4.0;4.0;"5-6 hours";"Unhealthy";"No";9;1;"Yes";"No";"A2";353
+"M";29;5.0;5.0;"Less than 5 hours";"Unhealthy";"No";11;5;"Yes";"Yes";"A2";354
+"M";23;2.0;5.0;"Less than 5 hours";"Unhealthy";"No";8;5;"No";"No";"A1";355
+"M";22;1.0;5.0;"More than 8 hours";"Moderate";"No";12;4;"No";"No";"A1";356
+"M";18;1.0;4.0;"Less than 5 hours";"Unhealthy";"No";5;4;"Yes";"No";"A1";357
+"M";29;3.0;1.0;"More than 8 hours";"Moderate";"Yes";4;1;"Yes";"Yes";"A2";358
+"M";28;4.0;2.0;"5-6 hours";"Unhealthy";"No";11;1;"Yes";"Yes";"A2";359
+"M";20;4.0;2.0;"Less than 5 hours";"Unhealthy";"Yes";5;4;"Yes";"Yes";"A1";360
+"M";31;2.0;4.0;"5-6 hours";"Unhealthy";"No";0;1;"No";"No";"A3";361
+"M";28;2.0;2.0;"More than 8 hours";"Unhealthy";"Yes";1;1;"No";"No";"A2";362
+"M";20;1.0;3.0;"More than 8 hours";"Moderate";"No";7;2;"No";"No";"A1";363
+"F";30;5.0;3.0;"More than 8 hours";"Moderate";"Yes";6;2;"No";"Yes";"A2";364
+"F";24;3.0;1.0;"More than 8 hours";"Unhealthy";"Yes";11;3;"Yes";"Yes";"A1";365
+"F";29;4.0;2.0;"Less than 5 hours";"Moderate";"No";0;1;"Yes";"No";"A2";366
+"F";20;3.0;2.0;"7-8 hours";"Moderate";"Yes";2;1;"Yes";"Yes";"A1";367
+"M";29;4.0;4.0;"7-8 hours";"Unhealthy";"Yes";6;2;"No";"Yes";"A2";368
+"F";28;3.0;2.0;"Less than 5 hours";"Healthy";"Yes";10;3;"Yes";"Yes";"A2";369
+"M";24;1.0;3.0;"5-6 hours";"Moderate";"Yes";3;2;"Yes";"No";"A1";370
+"M";19;2.0;4.0;"Less than 5 hours";"Moderate";"Yes";5;4;"Yes";"Yes";"A1";371
+"M";29;2.0;5.0;"7-8 hours";"Healthy";"No";11;1;"No";"No";"A2";372
+"F";20;1.0;5.0;"Less than 5 hours";"Healthy";"No";8;5;"No";"No";"A1";373
+"F";31;2.0;1.0;"Less than 5 hours";"Moderate";"Yes";5;2;"No";"Yes";"A3";374
+"F";27;3.0;3.0;"7-8 hours";"Unhealthy";"No";11;1;"No";"No";"A2";375
+"F";27;2.0;3.0;"Less than 5 hours";"Healthy";"Yes";8;3;"Yes";"Yes";"A2";376
+"M";30;4.0;1.0;"Less than 5 hours";"Moderate";"No";8;2;"No";"No";"A2";377
+"M";21;3.0;5.0;"More than 8 hours";"Healthy";"Yes";5;1;"Yes";"No";"A1";378
+"F";27;4.0;2.0;"7-8 hours";"Unhealthy";"Yes";0;2;"No";"Yes";"A2";379
+"F";30;3.0;3.0;"More than 8 hours";"Moderate";"Yes";10;1;"No";"No";"A2";380
+"M";28;1.0;1.0;"More than 8 hours";"Unhealthy";"Yes";8;2;"No";"No";"A2";381
+"M";33;3.0;5.0;"5-6 hours";"Healthy";"Yes";1;4;"No";"No";"A3";382
+"M";26;3.0;4.0;"More than 8 hours";"Unhealthy";"Yes";11;5;"No";"Yes";"A2";383
+"F";24;4.0;4.0;"7-8 hours";"Moderate";"No";0;4;"Yes";"No";"A1";384
+"M";33;3.0;2.0;"7-8 hours";"Healthy";"No";8;2;"Yes";"No";"A3";385
+"F";33;4.0;1.0;"Less than 5 hours";"Healthy";"Yes";10;3;"Yes";"Yes";"A3";386
+"F";31;1.0;3.0;"7-8 hours";"Unhealthy";"No";10;1;"Yes";"No";"A3";387
+"F";31;1.0;4.0;"More than 8 hours";"Unhealthy";"Yes";0;1;"No";"No";"A3";388
+"F";32;4.0;4.0;"5-6 hours";"Healthy";"No";2;2;"No";"No";"A3";389
+"F";31;5.0;1.0;"7-8 hours";"Healthy";"Yes";2;5;"Yes";"Yes";"A3";390
+"M";28;3.0;4.0;"5-6 hours";"Moderate";"Yes";10;2;"No";"Yes";"A2";391
+"M";26;4.0;3.0;"5-6 hours";"Moderate";"Yes";6;3;"Yes";"Yes";"A2";392
+"M";24;4.0;3.0;"More than 8 hours";"Moderate";"No";6;4;"Yes";"Yes";"A1";393
+"M";33;2.0;5.0;"More than 8 hours";"Unhealthy";"Yes";6;5;"Yes";"No";"A3";394
+"M";19;3.0;2.0;"More than 8 hours";"Unhealthy";"Yes";3;1;"No";"Yes";"A1";395
+"F";33;4.0;5.0;"7-8 hours";"Healthy";"No";12;4;"Yes";"No";"A3";396
+"M";31;1.0;2.0;"7-8 hours";"Unhealthy";"No";8;3;"No";"No";"A3";397
+"M";21;1.0;4.0;"Less than 5 hours";"Moderate";"No";2;2;"No";"No";"A1";398
+"M";24;1.0;4.0;"Less than 5 hours";"Unhealthy";"No";9;5;"No";"No";"A1";399
+"F";32;4.0;3.0;"Less than 5 hours";"Healthy";"Yes";11;4;"No";"Yes";"A3";400
+"M";33;3.0;1.0;"5-6 hours";"Moderate";"No";12;2;"No";"No";"A3";401
+"F";23;4.0;4.0;"More than 8 hours";"Unhealthy";"Yes";1;4;"No";"Yes";"A1";402
+"F";19;4.0;5.0;"7-8 hours";"Moderate";"Yes";12;5;"No";"Yes";"A1";403
+"F";23;2.0;2.0;"More than 8 hours";"Healthy";"No";1;1;"Yes";"No";"A1";404
+"F";21;1.0;3.0;"5-6 hours";"Unhealthy";"No";11;1;"No";"No";"A1";405
+"M";34;1.0;3.0;"More than 8 hours";"Unhealthy";"Yes";11;2;"Yes";"No";"A3";406
+"M";20;4.0;3.0;"7-8 hours";"Healthy";"No";11;2;"Yes";"Yes";"A1";407
+"F";28;1.0;3.0;"Less than 5 hours";"Moderate";"Yes";0;2;"Yes";"No";"A2";408
+"M";26;4.0;1.0;"More than 8 hours";"Moderate";"Yes";4;5;"No";"Yes";"A2";409
+"M";27;1.0;2.0;"7-8 hours";"Healthy";"Yes";10;1;"No";"No";"A2";410
+"M";31;5.0;5.0;"Less than 5 hours";"Healthy";"Yes";12;2;"Yes";"Yes";"A3";411
+"M";25;2.0;3.0;"More than 8 hours";"Moderate";"No";2;4;"Yes";"No";"A2";412
+"M";20;1.0;3.0;"More than 8 hours";"Healthy";"Yes";0;1;"No";"No";"A1";413
+"M";33;3.0;3.0;"Less than 5 hours";"Healthy";"No";12;1;"Yes";"No";"A3";414
+"F";25;3.0;3.0;"5-6 hours";"Unhealthy";"Yes";12;4;"Yes";"Yes";"A2";415
+"M";19;5.0;2.0;"5-6 hours";"Healthy";"Yes";11;3;"Yes";"Yes";"A1";416
+"F";21;5.0;1.0;"More than 8 hours";"Moderate";"No";11;3;"No";"Yes";"A1";417
+"F";24;4.0;4.0;"Less than 5 hours";"Healthy";"Yes";11;2;"No";"Yes";"A1";418
+"M";26;4.0;3.0;"7-8 hours";"Healthy";"Yes";7;4;"Yes";"Yes";"A2";419
+"M";21;1.0;2.0;"5-6 hours";"Healthy";"Yes";9;4;"No";"Yes";"A1";420
+"M";25;5.0;3.0;"More than 8 hours";"Unhealthy";"No";7;3;"No";"Yes";"A2";421
+"M";33;4.0;1.0;"Less than 5 hours";"Moderate";"No";4;5;"No";"Yes";"A3";422
+"F";23;5.0;1.0;"7-8 hours";"Healthy";"No";3;4;"Yes";"Yes";"A1";423
+"F";18;5.0;4.0;"7-8 hours";"Moderate";"Yes";9;1;"No";"Yes";"A1";424
+"F";27;5.0;5.0;"Less than 5 hours";"Unhealthy";"No";9;2;"No";"No";"A2";425
+"F";20;3.0;4.0;"Less than 5 hours";"Moderate";"No";12;3;"Yes";"Yes";"A1";426
+"F";21;5.0;1.0;"More than 8 hours";"Unhealthy";"No";11;5;"No";"Yes";"A1";427
+"F";28;2.0;4.0;"5-6 hours";"Healthy";"No";10;5;"Yes";"No";"A2";428
+"F";24;2.0;4.0;"5-6 hours";"Unhealthy";"No";5;2;"No";"No";"A1";429
+"F";23;2.0;1.0;"7-8 hours";"Unhealthy";"Yes";10;4;"Yes";"Yes";"A1";430
+"F";24;5.0;2.0;"5-6 hours";"Moderate";"Yes";7;3;"No";"Yes";"A1";431
+"F";34;2.0;5.0;"5-6 hours";"Healthy";"No";11;4;"No";"No";"A3";432
+"F";30;3.0;3.0;"5-6 hours";"Moderate";"No";12;1;"Yes";"No";"A2";433
+"M";19;3.0;3.0;"More than 8 hours";"Unhealthy";"Yes";8;1;"No";"Yes";"A1";434
+"F";30;5.0;2.0;"7-8 hours";"Moderate";"Yes";9;2;"No";"Yes";"A2";435
+"M";22;3.0;4.0;"Less than 5 hours";"Healthy";"Yes";5;4;"No";"Yes";"A1";436
+"F";18;4.0;3.0;"5-6 hours";"Unhealthy";"Yes";12;5;"Yes";"Yes";"A1";437
+"M";32;5.0;5.0;"More than 8 hours";"Healthy";"Yes";10;2;"No";"No";"A3";438
+"M";18;3.0;4.0;"5-6 hours";"Healthy";"Yes";8;4;"Yes";"Yes";"A1";439
+"M";21;1.0;3.0;"5-6 hours";"Moderate";"No";7;3;"Yes";"No";"A1";440
+"M";24;3.0;4.0;"Less than 5 hours";"Moderate";"Yes";8;3;"No";"Yes";"A1";441
+"F";34;3.0;5.0;"More than 8 hours";"Moderate";"Yes";4;5;"No";"No";"A3";442
+"M";34;1.0;2.0;"Less than 5 hours";"Moderate";"No";7;4;"Yes";"No";"A3";443
+"M";19;5.0;3.0;"7-8 hours";"Healthy";"Yes";5;2;"Yes";"Yes";"A1";444
+"M";23;1.0;5.0;"Less than 5 hours";"Moderate";"No";11;2;"Yes";"No";"A1";445
+"M";25;2.0;2.0;"More than 8 hours";"Moderate";"Yes";2;4;"No";"Yes";"A2";446
+"M";19;3.0;1.0;"Less than 5 hours";"Unhealthy";"No";10;4;"No";"Yes";"A1";447
+"F";25;1.0;2.0;"7-8 hours";"Healthy";"No";12;4;"Yes";"No";"A2";448
+"M";29;5.0;2.0;"More than 8 hours";"Unhealthy";"No";1;4;"Yes";"Yes";"A2";449
+"M";30;3.0;2.0;"5-6 hours";"Moderate";"No";0;4;"No";"No";"A2";450
+"M";29;2.0;3.0;"7-8 hours";"Moderate";"No";1;2;"No";"No";"A2";451
+"M";31;4.0;1.0;"More than 8 hours";"Healthy";"Yes";7;2;"No";"Yes";"A3";452
+"M";25;1.0;4.0;"7-8 hours";"Unhealthy";"Yes";12;4;"No";"Yes";"A2";453
+"F";18;1.0;5.0;"More than 8 hours";"Moderate";"Yes";7;5;"No";"Yes";"A1";454
+"M";33;3.0;4.0;"More than 8 hours";"Unhealthy";"Yes";9;1;"Yes";"No";"A3";455
+"M";32;1.0;3.0;"7-8 hours";"Unhealthy";"Yes";0;4;"Yes";"No";"A3";456
+"M";29;2.0;4.0;"More than 8 hours";"Unhealthy";"No";10;5;"No";"No";"A2";457
+"M";28;5.0;3.0;"Less than 5 hours";"Healthy";"No";1;2;"No";"No";"A2";458
+"F";21;5.0;4.0;"More than 8 hours";"Unhealthy";"No";0;5;"No";"Yes";"A1";459
+"M";31;2.0;3.0;"Less than 5 hours";"Moderate";"No";10;3;"No";"No";"A3";460
+"F";34;3.0;5.0;"Less than 5 hours";"Moderate";"Yes";3;5;"No";"No";"A3";461
+"F";30;3.0;4.0;"5-6 hours";"Healthy";"Yes";4;3;"Yes";"No";"A2";462
+"F";28;4.0;3.0;"5-6 hours";"Unhealthy";"Yes";6;3;"Yes";"Yes";"A2";463
+"M";29;1.0;5.0;"More than 8 hours";"Unhealthy";"No";2;1;"No";"No";"A2";464
+"F";30;2.0;3.0;"7-8 hours";"Unhealthy";"Yes";2;3;"No";"No";"A2";465
+"F";30;5.0;4.0;"More than 8 hours";"Unhealthy";"No";12;1;"Yes";"No";"A2";466
+"F";24;3.0;1.0;"5-6 hours";"Healthy";"No";6;4;"Yes";"Yes";"A1";467
+"F";27;5.0;1.0;"7-8 hours";"Unhealthy";"No";7;1;"Yes";"Yes";"A2";468
+"F";32;4.0;4.0;"Less than 5 hours";"Unhealthy";"Yes";4;1;"No";"No";"A3";469
+"M";25;4.0;3.0;"Less than 5 hours";"Unhealthy";"No";1;4;"No";"Yes";"A2";470
+"F";24;1.0;5.0;"5-6 hours";"Healthy";"No";11;2;"Yes";"No";"A1";471
+"M";22;3.0;4.0;"5-6 hours";"Moderate";"No";2;4;"Yes";"No";"A1";472
+"M";20;2.0;5.0;"More than 8 hours";"Unhealthy";"Yes";8;5;"Yes";"Yes";"A1";473
+"F";18;3.0;5.0;"7-8 hours";"Moderate";"No";4;1;"Yes";"No";"A1";474
+"M";20;3.0;3.0;"5-6 hours";"Moderate";"Yes";8;5;"No";"Yes";"A1";475
+"M";20;3.0;1.0;"More than 8 hours";"Unhealthy";"Yes";9;2;"No";"Yes";"A1";476
+"M";18;3.0;3.0;"7-8 hours";"Moderate";"No";6;3;"No";"No";"A1";477
+"M";27;2.0;3.0;"5-6 hours";"Unhealthy";"No";7;2;"Yes";"No";"A2";478
+"F";31;1.0;3.0;"5-6 hours";"Moderate";"No";8;1;"Yes";"No";"A3";479
+"F";22;1.0;4.0;"7-8 hours";"Unhealthy";"Yes";10;2;"Yes";"Yes";"A1";480
+"M";34;5.0;1.0;"Less than 5 hours";"Moderate";"Yes";6;4;"No";"Yes";"A3";481
+"M";32;2.0;1.0;"Less than 5 hours";"Unhealthy";"Yes";7;1;"No";"Yes";"A3";482
+"F";22;5.0;5.0;"5-6 hours";"Unhealthy";"No";0;3;"No";"No";"A1";483
+"F";21;2.0;1.0;"5-6 hours";"Healthy";"Yes";1;4;"Yes";"Yes";"A1";484
+"F";34;2.0;5.0;"Less than 5 hours";"Moderate";"Yes";1;1;"Yes";"No";"A3";485
+"M";29;5.0;4.0;"7-8 hours";"Unhealthy";"Yes";5;5;"No";"Yes";"A2";486
+"F";26;4.0;2.0;"More than 8 hours";"Healthy";"No";4;2;"Yes";"No";"A2";487
+"F";27;4.0;2.0;"5-6 hours";"Healthy";"No";1;4;"No";"No";"A2";488
+"M";30;3.0;2.0;"7-8 hours";"Moderate";"Yes";10;5;"Yes";"Yes";"A2";489
+"M";24;3.0;5.0;"Less than 5 hours";"Healthy";"No";6;1;"Yes";"No";"A1";490
+"M";27;3.0;4.0;"5-6 hours";"Healthy";"No";11;1;"No";"No";"A2";491
+"M";31;5.0;2.0;"More than 8 hours";"Unhealthy";"No";10;5;"Yes";"Yes";"A3";492
+"F";30;5.0;4.0;"7-8 hours";"Healthy";"No";6;4;"Yes";"No";"A2";493
+"M";30;3.0;3.0;"5-6 hours";"Moderate";"No";4;4;"Yes";"No";"A2";494
+"F";32;1.0;3.0;"Less than 5 hours";"Healthy";"Yes";5;4;"Yes";"No";"A3";495
+"M";33;2.0;5.0;"More than 8 hours";"Unhealthy";"No";9;3;"Yes";"No";"A3";496
+"F";30;5.0;1.0;"Less than 5 hours";"Unhealthy";"No";9;1;"No";"Yes";"A2";497
+"M";19;2.0;4.0;"More than 8 hours";"Unhealthy";"No";6;3;"No";"No";"A1";498
+"F";21;1.0;2.0;"5-6 hours";"Moderate";"Yes";2;2;"No";"No";"A1";499
+"F";18;3.0;1.0;"More than 8 hours";"Moderate";"No";3;1;"Yes";"No";"A1";500
+"M";34;3.0;4.0;"7-8 hours";"Unhealthy";"Yes";1;2;"No";"No";"A3";501
+"F";31;5.0;2.0;"Less than 5 hours";"Healthy";"Yes";8;5;"Yes";"Yes";"A3";502
