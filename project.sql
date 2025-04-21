@@ -80,6 +80,20 @@ GROUP BY `Depression`;
 ALTER TABLE depression_student_dataset
 ADD Index_column INT NOT NULL AUTO_INCREMENT PRIMARY KEY;
 
+DELIMITER $$
+
+CREATE PROCEDURE SHFH(X INT,Y INT)
+BEGIN
+    SELECT Depression,`Sleep Duration`
+    FROM depression_student_dataset
+    WHERE `Study Hours` = X
+      AND `Financial Stress` = Y;
+END $$
+
+DELIMITER ;
+
+CALL SHFH(0,4);
+
 
 
 
